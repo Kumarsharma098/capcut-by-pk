@@ -8,7 +8,7 @@
     "description": "يتوفر تحديث جديد.\n1.تم اصلاح المشاكل\n2.القوالب وكل شيء شغال\n4.يرجى التحديث الى احدث اصدار",
     "isForce": true,
     "isExpired": true,
-    "expiryDate": "2025-12-15",
+    "expiryDate": "2025-01-05",
     "closeButtonText": "Exit",
     "updateButtonText": "Update Now!"
   }
